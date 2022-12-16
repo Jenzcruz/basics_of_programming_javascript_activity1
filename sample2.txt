@@ -1,0 +1,40 @@
+<script>
+input_Number_Five = prompt("Fisrtname Jenry"); //string
+
+let inputNumberSix = prompt("Lastname Cruz");
+
+let inputNumberseven = prompt("Address Angeles");
+
+let inputNumberEight = prompt("Age 30");
+
+if(age >= 0 && age <= 1){
+
+str = "Infant";
+}
+else if (age >= 2 && age <= 4){
+
+str = "Child";
+}
+
+else if (age >= 5 && age <= 12){
+
+str = "Child";
+}
+
+else if (age >= 13 && age <= 19){
+str = "Teen";
+}
+
+else if (age >= 20 && age <= 39){
+str = "Teen";
+}
+
+else if (age >= 40 && age <= 59){
+str = "Middle Age";
+}
+
+else if (age >= 60 && age <= 100){
+str = "Senior Aadult";
+}
+
+</script>
